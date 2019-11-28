@@ -3,7 +3,7 @@
 
 ## Getting Started
 For instructions please refer to the PDF
-Demonstration
+Demonstration\
 https://drive.google.com/file/d/17jcVeuW_A-8GGKrKOHcVvj2hssJEaV9c/view?usp=sharing
 
 ### Dependencies
