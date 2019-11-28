@@ -20,9 +20,9 @@ Open CV 4.1.1
 Subhakrish Krishnamra - [Github](https://github.com/skrish30/Robot-Vision---ABB-internship)
 
 ## Acknowledgments
-ABB Thailand - RARO department
-Mr.Lumboon Simakajornboon
-Mr.Akkachai Sukporka
-Mr.Thana Cheewasupakorn
+ABB Thailand - RARO department\
+Mr.Lumboon Simakajornboon\
+Mr.Akkachai Sukporka\
+Mr.Thana Cheewasupakorn\
 
 
