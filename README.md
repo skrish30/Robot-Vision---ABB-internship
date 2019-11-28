@@ -12,7 +12,7 @@ numpy, cv2, matplotlib, scipy, PIL, tkinter, imutils
 ### Installing
 
 ## Built With
-Python 3.5
+Python 3.5\
 Open CV 4.1.1
 
 ## Authors
