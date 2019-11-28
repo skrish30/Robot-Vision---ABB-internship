@@ -23,6 +23,6 @@ Subhakrish Krishnamra - [Github](https://github.com/skrish30/Robot-Vision---ABB-
 ABB Thailand - RARO department\
 Mr.Lumboon Simakajornboon\
 Mr.Akkachai Sukporka\
-Mr.Thana Cheewasupakorn\
+Mr.Thana Cheewasupakorn
 
 
