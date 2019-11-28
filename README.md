@@ -2,7 +2,7 @@
 ![Image description](UI1.JPG)
 
 ## Getting Started
-For instructions please refer to the PDF
+For instructions please refer to the [PDF](https://github.com/skrish30/Robot-Vision---ABB-internship/blob/master/Robot%20Vision%20Instructions.pdf)
 Demonstration\
 https://drive.google.com/file/d/17jcVeuW_A-8GGKrKOHcVvj2hssJEaV9c/view?usp=sharing
 
