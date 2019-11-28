@@ -4,22 +4,25 @@
 ## Getting Started
 For instructions please refer to the PDF
 
-### Prerequisites
+### Dependencies
 
 What things you need to install the software and how to install
+numpy, cv2, matplotlib, scipy, PIL, tkinter, imutils
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-
 ## Built With
+Python 3.5
+Open CV 4.1.1
 
 ## Authors
 
-Subhakrish Krishnamra - [](https://github.com/skrish30/Robot-Vision---ABB-internship)
+Subhakrish Krishnamra - [Github](https://github.com/skrish30/Robot-Vision---ABB-internship)
 
 ## Acknowledgments
 ABB Thailand - RARO department
+Mr.Lumboon Simakajornboon
+Mr.Akkachai Sukporka
+Mr.Thana Cheewasupakorn
 
 
